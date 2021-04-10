@@ -1,4 +1,7 @@
-### Hi there 👋
+### Howdy!
+
+Hope you're doing well! Hopefully I get some free time to build out this README, but I'm probably busy with some other work.
+
 
 <!--
 **NS-BOBBY-C/NS-BOBBY-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
