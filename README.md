@@ -1,19 +1,38 @@
-### Howdy!
-
-Hope you're doing well! Hopefully I get some free time to build out this README, but I'm probably busy with some other work.
 
 
-<!--
-**NS-BOBBY-C/NS-BOBBY-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I’m @NS-BOBBY-C
 
-Here are some ideas to get you started:
+### 📫 How to reach me...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|                | Current Work Contact                                | 
+| -------------- | ------------------------------------------------------- | 
+| Name           | Robert Colley                                           | 
+| Title          | Director of Engineering                                 | 
+| Work Email     | [bobby@nextstep.world](mailto:bobby@nextstep.world)     |
+| Personal Email | [bobby@nextstep.world](mailto:robertcolley04@gmail.com) |
+
+### About me
+
+My name is Robert Colley and I am excited about using cutting edge technology to create platforms and solutions to solve the world's problems. I am passionate about React Native and mobile app development and open sources development. Most of my work is done in private repositories with my other GitHub account for work, but I would be happy to discuss my experiences and knowlege.
+
+### 🔭 I’m currently working on...
+
+##### Work
+
+- [NextStep GoodLife](https://nextstepgoodife.com)
+- [NextStep Bloom](https://nextstepbloom.com)
+- [NextStep.Health](https://nextstep.health)
+
+##### Open Source
+
+- Maintainer at [ViroCommunity](https://github.com/ViroCommunity)
+- [react-native-health](https://github.com/agencyenterprise/react-native-health)
+- [react-native-dynamic](https://github.com/codemotionapps/react-native-dynamic)
+
+### 🌱 I’m currently learning...
+
+About Unity and developing with my brother [Joe](https://github.com/JoeThCo). I'm learning unity for work as well in the context of VR/AR applications.
+
+### 👯 I’m looking to collaborate on...
+
+more open source projects I'm interested in. I'm very interested in how React Native operates with Native code and the libraries which are available to native iOS or android developers which may be bridged to the react native world.
