@@ -28,6 +28,7 @@ My name is Robert Colley and I am excited about using cutting edge technology to
 - Maintainer at [ViroCommunity](https://github.com/ViroCommunity)
 - [react-native-health](https://github.com/agencyenterprise/react-native-health)
 - [react-native-dynamic](https://github.com/codemotionapps/react-native-dynamic)
+- [facebook/Recoil](https://github.com/facebookexperimental/Recoil)
 
 ### 🌱 I’m currently learning...
 
