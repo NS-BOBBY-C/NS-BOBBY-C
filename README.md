@@ -9,7 +9,7 @@
 | Name           | Robert Colley                                           | 
 | Title          | Director of Engineering                                 | 
 | Work Email     | [bobby@nextstep.world](mailto:bobby@nextstep.world)     |
-| Personal Email | [bobby@nextstep.world](mailto:robertcolley04@gmail.com) |
+| Personal Email | [robertcolley04@gmail.com](mailto:robertcolley04@gmail.com) |
 
 ### About me
 
@@ -20,8 +20,8 @@ My name is Robert Colley and I am excited about using cutting edge technology to
 ##### Work
 
 - [NextStep GoodLife](https://nextstepgoodife.com)
-- [NextStep Bloom](https://nextstepbloom.com)
 - [NextStep.Health](https://nextstep.health)
+- [NextStep Bloom](https://nextstepbloom.com)
 
 ##### Open Source
 
