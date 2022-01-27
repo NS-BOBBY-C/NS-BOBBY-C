@@ -35,7 +35,3 @@ My name is Robert Colley and I am excited about using cutting edge web and mobil
 
 - About Unity and developing with my brother [Joe](https://github.com/JoeThCo)
 - How [Expo](https://github.com/expo/expo) works and how to use it to create mobile apps
-
-### 👯 I’m looking to collaborate on...
-
-More open source projects I'm interested in. I'm very interested in how React Native operates with Native code and the libraries which are available to native iOS or android developers which may be bridged to the react native world.
