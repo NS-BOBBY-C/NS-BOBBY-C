@@ -13,7 +13,7 @@
 
 ### About me
 
-My name is Robert Colley and I am excited about using cutting edge technology to create platforms and solutions to solve the world's problems. I am passionate about React Native and mobile app development and open sources development. Most of my work is done in private repositories with my other GitHub account for work, but I would be happy to discuss my experiences and knowlege.
+My name is Robert Colley and I am excited about using cutting edge web and mobile technology to create platforms and solutions to solve the world's problems. I am passionate about React Native, React, JavaScript, and the future of application and open source development. Most of my work is done in private repositories for work, but I would be happy to discuss my experiences and knowlege.
 
 ### 🔭 I’m currently working on...
 
@@ -23,17 +23,19 @@ My name is Robert Colley and I am excited about using cutting edge technology to
 - [NextStep.Health](https://nextstep.health)
 - [NextStep Bloom](https://nextstepbloom.com)
 
-##### Open Source
+##### Open Source Contributions
 
 - Maintainer at [ViroCommunity](https://github.com/ViroCommunity)
+- [facebook/Recoil](https://github.com/facebookexperimental/Recoil)
 - [react-native-health](https://github.com/agencyenterprise/react-native-health)
 - [react-native-dynamic](https://github.com/codemotionapps/react-native-dynamic)
-- [facebook/Recoil](https://github.com/facebookexperimental/Recoil)
+- __Pending__ [aws-chime-sdk-js](https://github.com/aws/amazon-chime-sdk-js)
 
 ### 🌱 I’m currently learning...
 
-About Unity and developing with my brother [Joe](https://github.com/JoeThCo). I'm learning unity for work as well in the context of VR/AR applications.
+- About Unity and developing with my brother [Joe](https://github.com/JoeThCo)
+- How [Expo](https://github.com/expo/expo) works and how to use it to create mobile apps
 
 ### 👯 I’m looking to collaborate on...
 
-more open source projects I'm interested in. I'm very interested in how React Native operates with Native code and the libraries which are available to native iOS or android developers which may be bridged to the react native world.
+More open source projects I'm interested in. I'm very interested in how React Native operates with Native code and the libraries which are available to native iOS or android developers which may be bridged to the react native world.
