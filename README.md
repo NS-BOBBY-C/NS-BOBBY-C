@@ -2,28 +2,28 @@
 
 # 👋 Hi, I’m @robertjcolley
 
-### 📫 How to reach me...
+## 📫 How to reach me...
 
-|                | Current Work Contact                                | 
+|                | Contact Me!                               | 
 | -------------- | ------------------------------------------------------- | 
 | Name           | Robert Colley                                           | 
-| Title          | Director of Engineering                                 | 
-| Work Email     | [bobby@nextstep.world](mailto:bobby@nextstep.world)     |
 | Personal Email | [robertcolley04@gmail.com](mailto:robertcolley04@gmail.com) |
 
-### About me
+## About me
 
 My name is Robert Colley and I am excited about using cutting edge web and mobile technology to create platforms and solutions to solve the world's problems. I am passionate about React Native, React, JavaScript, and the future of application and open source development. Most of my work is done in private repositories for work, but I would be happy to discuss my experiences and knowlege.
 
-### 🔭 I’m currently working on...
+## 🔭 I’m currently working on...
 
-##### Work
+### [NextStep HealthTech](https://nextstep.world)
+
+Director of Engineering
 
 - [NextStep GoodLife](https://nextstepgoodife.com)
 - [NextStep.Health](https://nextstep.health)
 - [NextStep Bloom](https://nextstepbloom.com)
 
-##### Open Source Contributions
+## 🌎 Open Source Contributions
 
 - Maintainer at [ViroCommunity](https://github.com/ViroCommunity)
 - [facebook/Recoil](https://github.com/facebookexperimental/Recoil)
@@ -31,7 +31,8 @@ My name is Robert Colley and I am excited about using cutting edge web and mobil
 - [react-native-dynamic](https://github.com/codemotionapps/react-native-dynamic)
 - __Pending__ [aws-chime-sdk-js](https://github.com/aws/amazon-chime-sdk-js)
 
-### 🌱 I’m currently learning...
+## 🌱 I’m currently learning...
 
+- More python!
 - About Unity and developing with my brother [Joe](https://github.com/JoeThCo)
 - How [Expo](https://github.com/expo/expo) works and how to use it to create mobile apps
