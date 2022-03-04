@@ -15,6 +15,10 @@ My name is Robert Colley and I am excited about using cutting edge web and mobil
 
 ## 🔭 I’m currently working on...
 
+### Hologic Genesis
+
+- [ThinPrep Genesisi](https://www.hologic.com/hologic-products/cytology/thinprepr-genesistm-processor)
+
 ### [NextStep HealthTech](https://nextstep.world)
 
 Director of Engineering
