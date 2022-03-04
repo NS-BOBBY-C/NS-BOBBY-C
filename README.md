@@ -21,8 +21,6 @@ My name is Robert Colley and I am excited about using cutting edge web and mobil
 
 ### [NextStep HealthTech](https://nextstep.world)
 
-Director of Engineering
-
 - [NextStep GoodLife](https://nextstepgoodife.com)
 - [NextStep.Health](https://nextstep.health)
 - [NextStep Bloom](https://nextstepbloom.com)
