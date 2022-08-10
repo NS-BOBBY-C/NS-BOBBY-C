@@ -8,6 +8,7 @@
 | -------------- | ------------------------------------------------------- | 
 | Name           | Robert Colley                                           | 
 | Personal Email | [robertcolley04@gmail.com](mailto:robertcolley04@gmail.com) |
+| Business Email | [colleysoftware@gmail.com](mailto:colleysoftware@gmail.com) |
 
 ## About me
 
@@ -15,15 +16,27 @@ My name is Robert Colley and I am excited about using cutting edge web and mobil
 
 ## 🔭 I’m currently working on...
 
-### [Hologic Genesis](https://www.hologic.com/)
+### [AthElites.io](https://www.athelites.io)
 
-- [ThinPrep Genesis](https://www.hologic.com/hologic-products/cytology/thinprepr-genesistm-processor)
+Mobile application for tracking workouts more accurately
+
+### [Jivista](https://jivista-io.vercel.app)
+
+Platform for tenants to find and rent properties
 
 ### [NextStep HealthTech](https://nextstep.world)
 
-- [NextStep GoodLife](https://nextstepgoodife.com)
-- [NextStep.Health](https://nextstep.health)
-- [NextStep Bloom](https://nextstepbloom.com)
+#### [NextStep GoodLife](https://nextstepgoodife.com)
+
+Social platform for youth ages 12-18 to engage with and share social wellness content
+
+#### [NextStep.Health](https://nextstep.health)
+
+Multisided marketplace for connecting mental health care providers to clients
+
+#### [NextStep Bloom](https://nextstepbloom.com)
+
+Social platform for youth ages 4-12 to engage with wellness content
 
 ## 🌎 Open Source Contributions
 
@@ -35,6 +48,10 @@ My name is Robert Colley and I am excited about using cutting edge web and mobil
 
 ## 🌱 I’m currently learning...
 
+- Systems engeineering
+- Creating a business
+- Social media management
+- Content creation
 - More python!
 - About Unity and developing with my brother [Joe](https://github.com/JoeThCo)
 - How [Expo](https://github.com/expo/expo) works and how to use it to create mobile apps
