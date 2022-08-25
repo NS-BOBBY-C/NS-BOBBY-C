@@ -28,7 +28,7 @@ Platform for tenants to find and rent properties
 
 #### [NextStep GoodLife](https://nextstepgoodife.com)
 
-Social platform for youth ages 12-18 to engage with and share social wellness content
+Social platform for youth ages 12-18 to engage with and share social wellness content. Partnered with [NYC Office of Community Mental Health](https://mentalhealth.cityofnewyork.us/wp-content/uploads/2022/01/MH_Report_v3.1_pages.pdf)
 
 #### [NextStep.Health](https://nextstep.health)
 
