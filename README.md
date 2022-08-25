@@ -28,15 +28,15 @@ Platform for tenants to find and rent properties
 
 #### [NextStep GoodLife](https://nextstepgoodife.com)
 
-Social platform for youth ages 12-18 to engage with and share social wellness content. Partnered with [NYC Office of Community Mental Health](https://mentalhealth.cityofnewyork.us/wp-content/uploads/2022/01/MH_Report_v3.1_pages.pdf)
+Social platform for youth ages 12-18 to engage with and share social wellness content. Partnered with [NYC Office of Community Mental Health](https://mentalhealth.cityofnewyork.us/wp-content/uploads/2022/01/MH_Report_v3.1_pages.pdf) to bring accessible mental health care resources to latinx youth in the Washington Heights Neighborhood.
 
 #### [NextStep.Health](https://nextstep.health)
 
-Multisided marketplace for connecting mental health care providers to clients
+Multi-sided marketplace for connecting mental health care providers to clients.
 
 #### [NextStep Bloom](https://nextstepbloom.com)
 
-Social platform for youth ages 4-12 to engage with wellness content
+Social platform for youth ages 4-12 to engage with wellness content.
 
 ## 🌎 Open Source Contributions
 
@@ -44,12 +44,13 @@ Social platform for youth ages 4-12 to engage with wellness content
 - [facebook/Recoil](https://github.com/facebookexperimental/Recoil)
 - [react-native-health](https://github.com/agencyenterprise/react-native-health)
 - [react-native-dynamic](https://github.com/codemotionapps/react-native-dynamic)
+- __Pending__ [expo](https://github.com/expo/expo)
 - __Pending__ [aws-chime-sdk-js](https://github.com/aws/amazon-chime-sdk-js)
 
 ## 🌱 I’m currently learning...
 
-- Systems engeineering
-- Creating a business
+- Systems engineering
+- Creating a business ([YC Startup School](https://www.startupschool.org/curriculum))
 - Social media management
 - Content creation
 - More python!
