@@ -26,7 +26,7 @@ Platform for tenants to find and rent properties
 
 ### [AthElites.io](https://www.athelites.io)
 
-Mobile application for tracking workouts more accurately
+Mobile application for tracking workouts more accurately. [Read why I stopped working on this idea](https://robertjcolley.com/blog/2022/09/05/my-failed-idea)!
 
 ### [NextStep HealthTech](https://nextstep.world)
 
