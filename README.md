@@ -14,15 +14,19 @@
 
 My name is Robert Colley and I am excited about using cutting edge web and mobile technology to create platforms and solutions to solve the world's problems. I am passionate about React Native, React, JavaScript, and the future of application and open source development. Most of my work is done in private repositories for work, but I would be happy to discuss my experiences and knowlege.
 
+My blog can be found at [www.robertjcolley.com](https://robertjcolley.com). I tend to write longer form posts here about things other than programming, but I do have a section just for programming.
+
 ## 🔭 I’m currently working on...
-
-### [AthElites.io](https://www.athelites.io)
-
-Mobile application for tracking workouts more accurately
 
 ### [Jivista](https://jivista-io.vercel.app)
 
 Platform for tenants to find and rent properties
+
+## 🔭 Past Projects
+
+### [AthElites.io](https://www.athelites.io)
+
+Mobile application for tracking workouts more accurately
 
 ### [NextStep HealthTech](https://nextstep.world)
 
