@@ -10,6 +10,8 @@
 | Personal Email | [robertcolley04@gmail.com](mailto:robertcolley04@gmail.com) |
 | Business Email | [colleysoftware@gmail.com](mailto:colleysoftware@gmail.com) |
 | Website        | https://robertjcolley.com |
+| IDK sometimes I write | [dev.to/robertjcolley](https://dev.to/robertjcolley) |
+| Buy me a coffee | [www.buymeacoffee.com](https://www.buymeacoffee.com/robertjcolley) |
 
 ## About me
 
