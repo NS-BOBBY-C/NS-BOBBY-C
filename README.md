@@ -21,11 +21,13 @@ My blog can be found at [www.robertjcolley.com](https://robertjcolley.com). I te
 
 ## 🔭 I’m currently working on...
 
+Hologic Genius Digital Diagnostics and spending more time strengthening personal relationships 😄
+
+## 🔭 Past Projects
+
 ### [Jivista](https://jivista-io.vercel.app)
 
 Platform for tenants to find and rent properties
-
-## 🔭 Past Projects
 
 ### [AthElites.io](https://www.athelites.io)
 
@@ -47,19 +49,11 @@ Social platform for youth ages 4-12 to engage with wellness content.
 
 ## 🌎 Open Source Contributions
 
-- Maintainer at [ViroCommunity](https://github.com/ViroCommunity)
+- [openseadragon](https://github.com/openseadragon/openseadragon)
+- Ex-Maintainer at [ViroCommunity](https://github.com/ViroCommunity)
 - [facebook/Recoil](https://github.com/facebookexperimental/Recoil)
 - [react-native-health](https://github.com/agencyenterprise/react-native-health)
 - [react-native-dynamic](https://github.com/codemotionapps/react-native-dynamic)
 - __Pending__ [expo](https://github.com/expo/expo)
 - __Pending__ [aws-chime-sdk-js](https://github.com/aws/amazon-chime-sdk-js)
 
-## 🌱 I’m currently learning...
-
-- Systems engineering
-- Creating a business ([YC Startup School](https://www.startupschool.org/curriculum))
-- Social media management
-- Content creation
-- More python!
-- About Unity and developing with my brother [Joe](https://github.com/JoeThCo)
-- How [Expo](https://github.com/expo/expo) works and how to use it to create mobile apps
