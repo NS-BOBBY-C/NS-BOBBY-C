@@ -25,6 +25,10 @@ Hologic Genius Digital Diagnostics and spending more time strengthening personal
 
 ## 🔭 Past Projects
 
+### [Start Task in Toggl Obsidian Plugin](https://github.com/robertjcolley/start-task-with-toggl-obsidian-plugin)
+
+Obsidian plugin to create a QR code that starts a task in Toggl
+
 ### [Jivista](https://jivista-io.vercel.app)
 
 Platform for tenants to find and rent properties
