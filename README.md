@@ -21,7 +21,8 @@ I love scripting and automation, JavaScript, React, Expo/React Native, NodeJS, a
 
 ## 🔭 I’m currently working on...
 
-Hologic Genius Digital Diagnostics and spending more time strengthening personal relationships 😄
+- [Hologic Genius Digital Diagnostics](https://www.hologic.com/hologic-products/cytology/genius-digital-diagnostics-system)
+- [NativeVision](https://nativevision.xyz)
 
 ## 🔭 Past Projects
 
@@ -53,8 +54,8 @@ Social platform for youth ages 4-12 to engage with wellness content.
 
 ## 🌎 Open Source Contributions
 
+- Maintainer at [ViroCommunity](https://github.com/ViroCommunity)
 - [openseadragon](https://github.com/openseadragon/openseadragon)
-- Ex-Maintainer at [ViroCommunity](https://github.com/ViroCommunity)
 - [facebook/Recoil](https://github.com/facebookexperimental/Recoil)
 - [react-native-health](https://github.com/agencyenterprise/react-native-health)
 - [react-native-dynamic](https://github.com/codemotionapps/react-native-dynamic)
